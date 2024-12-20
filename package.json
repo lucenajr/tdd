@@ -1,0 +1,27 @@
+{
+  "name": "booking",
+  "version": "1.0.0",
+  "description": "Project to study TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucenajr/tdd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucenajr/tdd/issues"
+  },
+  "homepage": "https://github.com/lucenajr/tdd#readme",
+  "devDependencies": {
+    "@jest/globals": "29.7.0",
+    "@types/jest": "29.5.14",
+    "jest": "29.7.0",
+    "ts-jest": "29.2.5",
+    "typescript": "5.7.2"
+  }
+}
